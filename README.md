@@ -1,5 +1,6 @@
 # ExercHeritage1
 Exercício de herança // Curso POO 
+
 Uma empresa possui funcionários próprios e terceirizados.
 Para cada funcionário, deseja-se registrar nome, horas
 trabalhadas e valor por hora. Funcionários terceirizados
